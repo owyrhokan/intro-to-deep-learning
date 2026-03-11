@@ -1,23 +1,26 @@
-# intro-to-deep-learning
+# Intro to Deep Learning
 
-Simple intro-to-deep-learning example.
+This repository serves as an introduction to deep learning with simple examples.
 
 ## Features
-- Basic neural network implementation
-- Training and evaluation script
+- Basic concepts of deep learning
+- Hands-on examples to illustrate key points
 
-## Tech Stack
+## Technology Stack
 - Python
-- TensorFlow
+- TensorFlow / PyTorch
 
 ## Usage
-1. Clone the repo
-2. Install dependencies with `pip install -r requirements.txt`
-3. Run the training script with `python train.py`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/intro-to-deep-learning.git
+   ```
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the examples to learn about deep learning.
 
 ## Future Plans
-- Add more examples
-- Improve model performance
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Expand the examples to cover more advanced topics.
+- Include a section on best practices in deep learning.
